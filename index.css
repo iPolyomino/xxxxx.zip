@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: monospace;
+}
+a {
+  color: #026de8;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 0.25rem;
+}
+.xxxxx {
+  font-size: 16rem;
+  line-height: 0.8;
+}
+.zip {
+  font-size: 3rem;
+  text-align: right;
+}
